@@ -1,4 +1,4 @@
 # Real-Estate-Price-Prediction
 Real Estate Price Prediction using Linear Regression Model
-#Preview
-https://github.com/ayushibawari/Real-Estate-Price-Prediction/assets/110801551/b8f77564-1446-40aa-a425-dbb5954ff219
+![realestateclone](https://github.com/ayushibawari/Real-Estate-Price-Prediction/assets/110801551/f4824951-5652-48e8-b67a-b17492b0cded)
+
